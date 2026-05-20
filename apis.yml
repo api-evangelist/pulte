@@ -21,6 +21,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/pultegroup
   - type: Website
     url: https://www.pulte.com/
   - type: Parent Company
