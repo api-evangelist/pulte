@@ -6,9 +6,20 @@ description: >-
   identified for the consumer-facing Pulte brand at this time; this index
   tracks the brand's web properties and developer-relevant resources.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pulte.png
 tags:
   - Homebuilding
   - Real Estate
