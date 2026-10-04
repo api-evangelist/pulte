@@ -33,7 +33,7 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pulte.png
 tags:
   - Homebuilding
-  - Real-Estate
+  - Real Estate
   - Construction
   - Fortune 500
 tags_raw:
@@ -41,6 +41,7 @@ tags_raw:
   - Real Estate
   - Construction
   - Fortune 500
+  - Real-Estate
 created: '2026-03-21'
 modified: '2026-04-28'
 url: >-
